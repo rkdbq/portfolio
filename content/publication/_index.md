@@ -20,22 +20,26 @@ type: landing
 sections:
   - block: collection
     content:
-      title: International Journals
+      title: International Journal
       text: ""
       filters:
         folders:
-          - publication/journals/international
+          - publication
+            - journals
+              - international
         exclude_featured: false
     design:
       view: citation
   
   - block: collection
     content:
-      title: Domestic Journals
+      title: Domestic Journal
       text: ""
       filters:
         folders:
-          - publication/journals/domestic
+          - publication
+            - journals
+              - domestic
         exclude_featured: false
     design:
       view: citation
