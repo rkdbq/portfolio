@@ -1,6 +1,6 @@
 ---
-title: 구해줘! 룸메
-summary: 윈도우 기반 룸메이트 매칭 플랫폼
+title: FindRoommate
+summary: Dormitory Roommate Matching Platform for Windows
 date: 2023-01-01
 type: docs
 math: false

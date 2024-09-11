@@ -1,6 +1,6 @@
 ---
 title: Roomie
-summary: 모바일 기반 룸메이트 매칭 플랫폼
+summary: Dormitory Roommate Matching Platform for Mobile
 date: 2023-01-01
 type: docs
 math: false

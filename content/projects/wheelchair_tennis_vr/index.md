@@ -1,6 +1,6 @@
 ---
 title: WheelchairTennisVR
-summary: ''
+summary: Wheelchair Tennis Game Compatible with a VR Environment
 date: 2023-01-01
 type: docs
 math: false

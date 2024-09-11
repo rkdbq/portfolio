@@ -1,6 +1,6 @@
 ---
-title: 가로본능
-summary: 도시 가로 경관 기반 감성 경로 라우팅 어플리케이션 (LX 협업)
+title: GaroBonneung
+summary: Routing Application Based on Streetscape Sentiment Scores, in Collaboration with LX
 date: 2023-01-01
 type: docs
 math: false
