@@ -2,8 +2,8 @@
 # Display name
 title: Bong-gu Kang
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Bong-gu Kang
 
 # Full name (for SEO)
 first_name: Bong-gu
@@ -47,7 +47,7 @@ education:
   - area: Bachelor of Computer Science and Engineering
     institution: Jeonbuk National University
     date_start: 2019-03-01
-    date_end: 2025-02-01
+    date_end: ''
     summary: |
       - Major GPA 4.35 / 4.50
       - Cumulative GPA 4.16 / 4.50
