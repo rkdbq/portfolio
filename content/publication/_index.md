@@ -25,7 +25,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/journals/domesitc
+          - publication/journals/domestic
         exclude_featured: false
     design:
       view: citation
