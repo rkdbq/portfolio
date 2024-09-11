@@ -49,8 +49,8 @@ education:
     date_start: 2019-03-01
     date_end: 2025-02-01
     summary: |
-    - Major GPA 4.35 / 4.50
-    - Cumulative GPA 4.16 / 4.50
+      - Major GPA 4.35 / 4.50
+      - Cumulative GPA 4.16 / 4.50
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
