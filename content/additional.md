@@ -21,5 +21,5 @@ sections:
   - block: markdown
     content:
       title: Certifications
-      text: ** Engineer Information Processing **, test content
+      text: Engineer Information Processing, test content
 ---
