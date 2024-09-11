@@ -17,5 +17,5 @@ main:
     url: publication/
     weight: 40
   - name: +
-    url: teaching/
+    url: additional/
     weight: 50
