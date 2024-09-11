@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bong-gu Kang
+title: 강봉구
 
 # Full name (for SEO)
 first_name: Bong-gu
@@ -32,23 +32,23 @@ profiles:
 #   - Information Retrieval
 
 education:
-  - area: Bachelor of Computer Science and Engineering
-    institution: Jeonbuk National University
+  - area: 컴퓨터공학 학사
+    institution: 전북대학교
     date_start: 2019-03-01
     date_end: ''
     summary: |
       - Major GPA 4.35 / 4.50
       - Cumulative GPA 4.16 / 4.50
 work:
-  - position: Undergraduate Internship
-    company_name: Visual Computing Lab.
+  - position: 학부 연구생
+    company_name: 비주얼컴퓨팅 연구실
     company_url: https://sites.google.com/view/vclab-cnu
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |
-      - Level Of Detail Optimization Research
-      - P&ID Symbol Detection and Text Recognition Research
+      - Level Of Detail 최적화 연구
+      - P&ID 객체 검출 및 텍스트 인식 연구
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -85,9 +85,9 @@ skills:
         icon: camera
 
 languages:
-  - name: Korean
+  - name: 한국어
     percent: 100
-  - name: English
+  - name: 영어
     percent: 50
     # cert: ~~
 
@@ -128,4 +128,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요.
