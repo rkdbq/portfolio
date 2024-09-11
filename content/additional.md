@@ -8,13 +8,13 @@ sections:
       title: Activities
       text: ALPS
 
-  - block: resume-awards
+  - block: markdown
     content:
       title: Awards
-      username: admin
+      text: JBNU SW Univ. AI Online Competition 2024, 2nd Prize
 
   - block: markdown
     content:
       title: Certifications
-      text: Engineer Information Processing, test content
+      text: Engineer Information Processing
 ---
