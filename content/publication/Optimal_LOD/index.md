@@ -1,22 +1,21 @@
 ---
-title: "Optimizing
-Image Format P&ID Recognition: Integrating Symbol and Text Recognition with a Single
-Backbone Architecture"
+title: "Backpropagation-
+Based Optimization Method for Quality Improvement of Simplified Meshes"
 authors:
-- Jun-hyung Byun
+- Dong-won Jeong
 - admin
-- Du-hwan Mun
-- Gwang Lee
+- Soon-jo Kwon
 - Hyung-ki Kim
-date: "2024-09-01T00:00:00Z"
+date: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["international-journal"]
+publication_types: ["domestic-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers in Industry"
+publication: "Korean Journal of
+Computational Design and Engineering"
 publication_short: ""
 
 # links:
