@@ -3,44 +3,23 @@ title: Additional
 type: landing
 
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: Activities
-      text: ""
-      filters:
-        folders:
-            - activities
-    # design:
-    #   view: citation
+      text: ALPS
 
-  - block: collection
+  - block: resume-awards
     content:
       title: Awards
-      text: ""
-      filters:
-        folders:
-            - awards
-    # design:
-    #   view: citation
+      username: admin
   
-  - block: collection
+  - block: resume-languages
     content:
       title: Languages
-      text: ""
-      filters:
-        folders:
-            - languages
-    # design:
-    #   view: citation
+      username: admin
 
-  - block: collection
+  - block: markdown
     content:
       title: Certifications
-      text: ""
-      filters:
-        folders:
-            - certifications
-      exclude_featured: false
-    # design:
-    #   view: citation
+      text: ** Engineer Information Processing **, test content
 ---
