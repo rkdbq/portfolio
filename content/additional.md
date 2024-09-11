@@ -1,5 +1,5 @@
 ---
-title: Additional
+title: +
 type: landing
 
 cascade:
