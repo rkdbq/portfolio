@@ -1,6 +1,6 @@
 ---
 title: Publications
-# type: landing
+type: landing
 
 # cascade:
 #   - _target:
