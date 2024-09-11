@@ -19,7 +19,17 @@ type: landing
 
 sections:
   - block: collection
-    id: publication
+    content:
+      title: International Journals
+      text: ""
+      filters:
+        folders:
+          - publication/journals/international
+        exclude_featured: false
+    design:
+      view: citation
+  
+  - block: collection
     content:
       title: Domestic Journals
       text: ""
