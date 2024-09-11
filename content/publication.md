@@ -24,7 +24,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/journals/international
+          - journals-international
         exclude_featured: false
     design:
       view: citation
@@ -35,7 +35,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/journals/domestic
+          - journals-domestic
         exclude_featured: false
     design:
       view: citation
