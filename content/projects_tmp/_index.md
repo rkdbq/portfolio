@@ -10,11 +10,11 @@ cascade:
 
 sections:
   - block: collection
-    id: project_tmp
+    id: projects_tmp
     content:
       filters:
         folders:
-          - project_tmp
+          - projects_tmp
     design:
       view: article-grid
       columns: 2
