@@ -1,7 +1,7 @@
 ---
 title: "Optimizing
 Image Format P&ID Recognition: Integrating Symbol and Text Recognition with a Single
-Backbone Architecture. Computers in Industry"
+Backbone Architecture"
 authors:
 - Jun-hyung Byun
 - admin
@@ -17,7 +17,7 @@ publication_types: ["international-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Computers in Industry"
-publication_short: "CI"
+publication_short: ""
 
 # links:
 # - name: ""
