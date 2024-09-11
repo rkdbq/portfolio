@@ -1,7 +1,6 @@
 ---
 title: "Backpropagation-
-Based Optimization Method for Quality Improvement of Simplified Meshes. Korean Journal of
-Computational Design and Engineering"
+Based Optimization Method for Quality Improvement of Simplified Meshes"
 authors:
 - Dong-won Jeong
 - admin
