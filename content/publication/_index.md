@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Publications
 type: landing
 
@@ -24,9 +24,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
-            - journals
-              - international
+          - publication/journals/international
         exclude_featured: false
     design:
       view: citation
@@ -37,10 +35,8 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
-            - journals
-              - domestic
+          - publication/journals/domestic
         exclude_featured: false
     design:
       view: citation
---- -->
+---
