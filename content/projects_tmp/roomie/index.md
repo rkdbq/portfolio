@@ -1,11 +1,13 @@
 ---
-title: Dormitory Roommate Matching Platform for Mobile
-summary: Roomie
+title: Roomie
+summary: Dormitory Roommate Matching Platform for Mobile
 date: 2023-01-01
 type: docs
 math: false
 ---
 
-[Roomie](https://hugoblox.com) is cross-platform application.
+[Github](https://github.com/rkdbq/Roomie-v2)
 
-Used Dart, Flutter and Firebase.
+Implemented an algorithm for recommending users based on behavior similarity using content-based filtering and served as the front-end development lead.
+Deployed to both iOS and Android marketplaces.
+Technologies used: Dart, Flutter, Firebase.

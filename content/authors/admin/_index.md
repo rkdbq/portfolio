@@ -54,15 +54,13 @@ education:
 work:
   - position: Undergraduate Internship
     company_name: Visual Computing Lab.
-    company_url: 'https://sites.google.com/view/vclab-cnu'
+    company_url: https://sites.google.com/view/vclab-cnu
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Level Of Detail Optimization Research
+      - P&ID Symbol Detection and Text Recognition Research
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
