@@ -2,16 +2,16 @@
 # Display name
 title: Bong-gu Kang
 
-# # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Bong-gu
 last_name: Kang
 
-# # Status emoji
-# status:
-#   icon: ☕️
+# Status emoji
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,10 +22,10 @@ highlight_name: true
 # Role/position/tagline
 role: Student @ JBNU
 
-# # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: OpenAI
-#     url: https://openai.com/
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
