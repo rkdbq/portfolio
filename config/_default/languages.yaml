@@ -27,7 +27,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 ko:
- languageCode: ko
+ languageCode: en-us
  contentDir: content
  menu:
    main:
