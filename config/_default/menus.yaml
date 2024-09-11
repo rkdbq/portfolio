@@ -17,7 +17,7 @@ main:
     url: /#experience
     weight: 30
   - name: Projects
-    url: projects/
+    url: teaching/
     weight: 20
   - name: Publications
     url: /#papers
