@@ -1,6 +1,6 @@
 ---
-title: PNID
-summary: PNID
+title: P&ID 객체 검출 및 텍스트 인식 연구
+summary: ''
 date: 2023-01-01
 type: docs
 math: false

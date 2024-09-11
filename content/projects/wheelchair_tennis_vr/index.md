@@ -1,6 +1,6 @@
 ---
 title: WheelchairTennisVR
-summary: Application for Generating Images of the Animation Black Rubber Shoes
+summary: ''
 date: 2023-01-01
 type: docs
 math: false

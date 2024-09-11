@@ -1,6 +1,6 @@
 ---
-title: Level Of Detail Optimazation
-summary: PNID
+title: Level Of Detail 최적화 연구
+summary: ''
 date: 2023-01-01
 type: docs
 math: false

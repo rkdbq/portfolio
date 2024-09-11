@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Projects
+      title: 프로젝트
       filters:
         folders:
           - projects
@@ -15,7 +15,7 @@ sections:
 
   - block: collection
     content:
-      title: Research
+      title: 연구
       filters:
         folders:
           - research

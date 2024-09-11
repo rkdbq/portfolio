@@ -1,6 +1,6 @@
 ---
 title: BlackRubberShoes
-summary: Application for Generating Images of the Animation Black Rubber Shoes
+summary: 검정고무신 이미지 생성 서비스
 date: 2023-01-01
 type: docs
 math: false
