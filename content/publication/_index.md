@@ -1,5 +1,12 @@
 ---
 title: Publications
+type: landing
+
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 # cms_exclude: true
 
 # # View.
