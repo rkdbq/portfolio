@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 강봉구
+title: Bong-gu Kang
 
 # Full name (for SEO)
-first_name: 봉구
-last_name: 강
+first_name: Bong-gu
+last_name: Kang
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,7 +33,7 @@ profiles:
 
 education:
   - area: Bachelor of Computer Science and Engineering
-    institution: 전북대학교
+    institution: Jeonbuk National University
     date_start: 2019-03-01
     date_end: ''
     summary: |
