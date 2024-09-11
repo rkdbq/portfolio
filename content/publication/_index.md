@@ -1,12 +1,12 @@
 ---
 title: Publications
-type: landing
+# type: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+# cascade:
+#   - _target:
+#       kind: page
+#     params:
+#       show_breadcrumb: true
 # cms_exclude: true
 
 # # View.
@@ -19,7 +19,7 @@ cascade:
 
 sections:
   - block: collection
-    id: publications
+    id: publication
     content:
       title: Publications
       text: ""
