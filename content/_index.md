@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
 
   - block: resume-experience
-    # id: experience
+    id: experience
     content:
       username: admin
     design:
