@@ -44,13 +44,13 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Bachelor of Computer Science and Engineering
     institution: Jeonbuk National University
     date_start: 2019-03-01
     date_end: ''
     summary: |
     - Major GPA 4.35 / 4.50
-    - Cummulative GPA 4.16 / 4.50
+    - Cumulative GPA 4.16 / 4.50
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
