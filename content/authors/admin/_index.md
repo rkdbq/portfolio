@@ -9,9 +9,9 @@ name_pronunciation: Chien Shiung Wu
 first_name: Bong-gu
 last_name: Kang
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,10 +22,10 @@ highlight_name: true
 # Role/position/tagline
 role: Student @ JBNU
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# # Organizations/Affiliations to display in Biography blox
+# organizations:
+#   - name: OpenAI
+#     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,7 +47,7 @@ education:
   - area: Bachelor of Computer Science and Engineering
     institution: Jeonbuk National University
     date_start: 2019-03-01
-    date_end: ''
+    date_end: 2025-02-01
     summary: |
     - Major GPA 4.35 / 4.50
     - Cumulative GPA 4.16 / 4.50
