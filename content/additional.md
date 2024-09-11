@@ -7,10 +7,9 @@ sections:
     content:
       title: Activities
       text: ""
-    #   filters:
-    #     folders:
-    #       - journals-international
-    #     exclude_featured: false
+      filters:
+        folders:
+            - activities
     # design:
     #   view: citation
 
@@ -18,10 +17,9 @@ sections:
     content:
       title: Awards
       text: ""
-    #   filters:
-    #     folders:
-    #       - journals-international
-    #     exclude_featured: false
+      filters:
+        folders:
+            - awards
     # design:
     #   view: citation
   
@@ -29,10 +27,9 @@ sections:
     content:
       title: Languages
       text: ""
-    #   filters:
-    #     folders:
-    #       - journals-domestic
-    #     exclude_featured: false
+      filters:
+        folders:
+            - languages
     # design:
     #   view: citation
 
@@ -40,10 +37,10 @@ sections:
     content:
       title: Certifications
       text: ""
-    #     filters:
-    #     folders:
-    #       - journals-domestic
-    #     exclude_featured: false
+      filters:
+        folders:
+            - certifications
+      exclude_featured: false
     # design:
     #   view: citation
 ---
