@@ -10,11 +10,21 @@ cascade:
 
 sections:
   - block: collection
-    id: projects_tmp
     content:
+      title: Projects
       filters:
         folders:
           - projects_tmp
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    content:
+      title: Research
+      filters:
+        folders:
+          - research
     design:
       view: article-grid
       columns: 2
