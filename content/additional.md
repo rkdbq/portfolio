@@ -4,6 +4,7 @@ type: landing
 
 sections:
   - block: collection
+    id: additional
     content:
       title: Activities
       text: ""
