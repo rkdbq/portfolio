@@ -32,11 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My name is Bong-gu Kang (강봉구)'
+      title: 'About Me'
       subtitle: ''
       text: |-
-        
-        I am student @ JBNU CSE.
+        My name is Bong-gu Kang.
+        I am student @ [JBNU CSE](https://csai.jbnu.ac.kr/).
 
     design:
       columns: '1'
