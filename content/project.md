@@ -14,7 +14,7 @@ sections:
       title: Projects
       filters:
         folders:
-          - project
+          - projects
     design:
       view: article-grid
       columns: 2
