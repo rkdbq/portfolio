@@ -21,11 +21,11 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Publications
+      title: Domestic Journals
       text: ""
       filters:
         folders:
-          - publication
+          - publication/journals/domesitc
         exclude_featured: false
     design:
       view: citation
