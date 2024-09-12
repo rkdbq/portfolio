@@ -18,7 +18,7 @@ sections:
 
       **Angelhack Hackseoul** 해커톤 본선 [{{< icon name="brands/github" >}}](/uploads/resume.pdf) - 2024년 8월
       
-      ![screen reader text](C29E4481-3594-45B7-AD89-6A20C5887953_1_102_o.jpeg)
+      ![screen reader text](angelhack.jpeg)
 
       ### Awards
 
