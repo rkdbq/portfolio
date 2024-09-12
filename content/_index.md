@@ -12,7 +12,7 @@ sections:
   - block: resume-biography-3
     content:
       # The user's folder name in `content/authors/`
-      username: admin
+      username: admin_bio
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
       button:
@@ -22,7 +22,7 @@ sections:
   - block: resume-experience
     id: experience
     content:
-      username: admin
+      username: admin_spec
     design:
       # Hugo date format
       date_format: '2006 January'
@@ -39,5 +39,5 @@ sections:
   - block: resume-languages
     content:
       title: Languages
-      username: admin
+      username: admin_spec
 ---
