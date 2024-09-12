@@ -1,9 +1,9 @@
 ---
 title: BlackRubberShoes
 summary: Application for Generating Images of the Animation Black Rubber Shoes
-date: 2023-01-01
+# date: 2023-01-01
 type: docs
-math: false
+math: true
 ---
 
 [Github](https://github.com/rkdbq/Roomie-v2)

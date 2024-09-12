@@ -5,16 +5,40 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Activities
-      text: ALPS
+      title: ''
+      text: '
+      ### Activities
 
-  - block: markdown
-    content:
-      title: Awards
-      text: JBNU SW Univ. AI Online Competition 2024, 2nd Prize
+      **ALPS** (Algorithm & Programming Study Group) [{{< icon name="brands/github" >}}](https://www.google.com)
 
-  - block: markdown
-    content:
-      title: Certifications
-      text: Engineer Information Processing
+      - 2019년 3월 ~ 현재
+      
+      - 2023년 부회장 활동
+
+
+      **Angelhack Hackseoul** 해커톤 본선 [{{< icon name="brands/github" >}}](/uploads/resume.pdf) - 2024년 8월
+      
+      ![screen reader text](C29E4481-3594-45B7-AD89-6A20C5887953_1_102_o.jpeg)
+
+      ### Awards
+
+      - **전북대학교 SW중심대학 인공지능 온라인 경진대회 2024 은상** [{{< icon name="hero/document-arrow-down" >}}](/uploads/resume.pdf) - 2024년 6월 수상
+
+
+      - **전북대학교 SW중심대학 캡스톤디자인 경진대회 2024 동상** [{{< icon name="hero/document-arrow-down" >}}](/uploads/resume.pdf) - 2024년 6월 수상
+
+
+      - **전북대학교 컴퓨터인공지능학부 작품 경진대회 2023 동상** [{{< icon name="hero/document-arrow-down" >}}](/uploads/resume.pdf) - 2023년 12월 수상
+
+
+      - **전북대학교 컴퓨터공학부 작품 경진대회 2022 동상** [{{< icon name="hero/document-arrow-down" >}}](/uploads/resume.pdf) - 2022년 12월 수상
+
+
+      ### Certifications
+
+      **정보처리기사** [{{< icon name="hero/document-arrow-down" >}}](https://www.google.com) - 2024년 9월 취득 
+      '
+    design:
+      spacing:
+        padding: ['20px', '20px', '20px', '20px']
 ---

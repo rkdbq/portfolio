@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bong-gu Kang
+title: 강봉구
 
 # Full name (for SEO)
 first_name: Bong-gu
@@ -18,9 +18,8 @@ role: Student @ JBNU CSE
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: hero/envelope
     url: 'mailto:rkdbg11752@jbnu.ac.kr'
-    label: E-mail
   - icon: brands/github
     url: https://github.com/rkdbq
   - icon: brands/linkedin
@@ -30,4 +29,4 @@ profiles:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+전북대학교 컴퓨터공학부에서 재학 중입니다. 다양한 분야에 관심이 많습니다.
