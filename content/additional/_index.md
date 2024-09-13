@@ -36,7 +36,7 @@ sections:
 
       ### Certifications
 
-      **정보처리기사** [{{< icon name="hero/document-arrow-down" >}}](https://www.google.com) - 2024년 9월 취득 
+      **정보처리기사** [{{< icon name="hero/document-arrow-down" >}}](https://www.google.com) - 2024년 9월 취득
       '
     design:
       spacing:
