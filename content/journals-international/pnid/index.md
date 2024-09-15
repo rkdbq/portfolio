@@ -22,7 +22,7 @@ date: "2024-09-01T00:00:00Z"
 # # links:
 # # - name: ""
 # #   url: ""
-# url_pdf: ''
+url_pdf: papers/pnid.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
