@@ -1,4 +1,7 @@
 ---
+title: Bong-gu Kang
+highlight_name: true
+
 education:
   - area: 컴퓨터공학 학사
     institution: 전북대학교
