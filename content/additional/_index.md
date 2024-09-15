@@ -9,7 +9,7 @@ sections:
       text: '
       ### Activities
 
-      **ALPS** (Algorithm & Programming Study Group) [{{< icon name="brands/github" >}}](https://www.google.com)
+      **ALPS** (Algorithm & Programming Study Group) [{{< icon name="brands/github" >}}](https://www.google.com) 
 
       - 2019년 3월 ~ 현재
       
