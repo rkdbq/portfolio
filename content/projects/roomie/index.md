@@ -13,3 +13,5 @@ Deployed to both iOS and Android marketplaces.
 Technologies used: Dart, Flutter, Firebase.
 
 **ALPS** (Algorithm & Programming Study Group) [{{< icon name="brands/github" >}}](https://www.google.com) 
+
+[{{< icon name="hero/document-arrow-down" >}}](/awards/2022_작품경진대회.pdf)

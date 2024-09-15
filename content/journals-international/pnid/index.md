@@ -31,5 +31,3 @@ url_pdf: papers/pnid.pdf
 # url_source: ''
 # url_video: ''
 ---
-
-set
