@@ -1,7 +1,7 @@
 ---
 title: Roomie
 summary: Dormitory Roommate Matching Platform for Mobile
-date: 2023-01-01
+date: 2024-09-15
 type: docs
 math: false
 ---
