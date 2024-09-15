@@ -10,7 +10,7 @@ sections:
         folders:
           - projects
     design:
-      view: article-grid
+      view: community/project-grid
       columns: 3
 
   - block: collection
@@ -20,6 +20,6 @@ sections:
         folders:
           - research
     design:
-      view: article-grid
+      view: community/project-grid
       columns: 3
 ---
