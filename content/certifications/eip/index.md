@@ -1,15 +1,9 @@
 ---
 title: 정보처리기사
-summary: Dormitory Roommate Matching Platform for Mobile
-date: 2023-01-01
+summary: 2024년 9월
+date: 2024-09-18
 type: docs
 math: false
 ---
 
-[Github](https://github.com/rkdbq/Roomie-v2)
-
-Implemented an algorithm for recommending users based on behavior similarity using content-based filtering and served as the front-end development lead.
-Deployed to both iOS and Android marketplaces.
-Technologies used: Dart, Flutter, Firebase.
-
-**ALPS** (Algorithm & Programming Study Group) [{{< icon name="brands/github" >}}](https://www.google.com) 
+2024년 2회 정보처리기사를 취득했습니다. [{{< icon name="hero/document-arrow-down" >}}](/certifications/Engineer_Information_Processing.pdf)
