@@ -9,10 +9,10 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: community/resume-biography-3-custom
     content:
       # The user's folder name in `content/authors/`
-      username: admin_bio
+      username: admin
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
       button:
@@ -22,10 +22,10 @@ sections:
   - block: resume-experience
     id: experience
     content:
-      username: admin_spec
+      username: admin
     design:
       # Hugo date format
-      date_format: '2006 January'
+      date_format: '2006년 January'
       # Education or Experience section first?
       is_education_first: true
 
@@ -39,5 +39,5 @@ sections:
   - block: resume-languages
     content:
       title: Languages
-      username: admin_spec
+      username: admin
 ---

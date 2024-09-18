@@ -4,7 +4,7 @@ Image Format P&ID Recognition: Integrating Symbol and Text Recognition with a Si
 Backbone Architecture"
 authors:
 - Jun-hyung Byun
-- admin_spec
+- admin
 - Du-hwan Mun
 - Gwang Lee
 - Hyung-ki Kim
