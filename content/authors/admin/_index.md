@@ -32,16 +32,16 @@ education:
     date_end: ''
     summary: |
       - 전공 GPA 4.35 / 4.50
-      - 총 GPA 4.16 / 4.50
+      - 전체 GPA 4.16 / 4.50
 work:
   - position: 학부연구생
-    company_name: '비주얼 컴퓨팅 연구실 (지도교수: 김형기)'
+    company_name: '비주얼컴퓨팅 연구실 (지도교수: 김형기)'
     company_url: https://sites.google.com/view/vclab-cnu
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |
-      - Level Of Detail 최적화 연구
+      - LOD 최적화 연구
       - P&ID 객체 검출 및 텍스트 인식 연구
 
 # Skills
@@ -85,6 +85,8 @@ languages:
     percent: 50
 ---
 
-## About Me
+## 타이틀 문장
 
-전북대학교 컴퓨터공학부에서 재학 중입니다. 다양한 분야에 관심이 많습니다.
+핵심 경험에 대해 이야기하기
+
+전북대학교 컴퓨터공학부에 재학 중입니다.

@@ -22,7 +22,7 @@ date: "2024-09-01T00:00:00Z"
 # # links:
 # # - name: ""
 # #   url: ""
-url_pdf: papers/pnid.pdf
+url_pdf: papers/COMIND-S-24-00998-2.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
