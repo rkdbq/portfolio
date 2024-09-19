@@ -8,8 +8,11 @@ math: false
 
 ### 개요
 
-'구해줘! 룸메'는 MVVM 디자인 패턴을 적용한 Windows 기반 룸메이트 매칭 플랫폼입니다. [{{< icon name="brands/github" >}}](https://github.com/rkdbq/Roomie-v2)
+'구해줘! 룸메'는 Windows 기반 룸메이트 매칭 플랫폼입니다.
 
+MVVM 디자인 패턴을 적용을 중점으로 개발했습니다.
+
+- 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/FindRoommate) | [{{< icon name="hero/document" >}}](구해줘!룸메.pdf)
 - 사용 기술: {{< icon name="devicon/csharp" >}}| WPF | {{< icon name="devicon/microsoftsqlserver" >}}
 - 개발 환경: {{< icon name="devicon/windows8" >}}
 - 개발 기간: 2022년 3월 - 2022년 6월
@@ -29,7 +32,7 @@ math: false
 
 우리 팀은 위 문제를 해결하고자 구체적이고 능동적인 룸메이트 배정 방식을 도입한 프로그램을 만들고자 했습니다. -->
 
-### <u>기여</u>
+### <u>내가 기여한 점</u>
 
 1. MVVM 디자인 패턴 적용
     - Data Binding을 통해 UI와 사용자 입력을 분리함으로써 DB 데이터 변경과 디자인 요소를 각각 관리하도록 했습니다.
@@ -45,5 +48,7 @@ math: false
 
 ### 한계
 
-- 비동기 통신의 부재: 소켓 기반의 실시간 채팅만 구현했다는 점이 아쉬움으로 남습니다.
-- UI: 사용자 친화적인 인터페이스를 제공하지 못했습니다.
+1. 비동기 통신의 부재
+    - 소켓 기반의 실시간 채팅만 구현했다는 점이 아쉬움으로 남습니다.
+2. UI
+    - 사용자 친화적인 인터페이스를 제공하지 못했습니다.
