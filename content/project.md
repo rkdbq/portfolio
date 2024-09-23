@@ -4,6 +4,7 @@ type: landing
 
 sections:
   - block: collection
+    id: projects
     content:
       title: Projects
       filters:
