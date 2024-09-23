@@ -24,4 +24,14 @@ sections:
       view: community/citation
       spacing:
         padding: ['20px', '20px', '20px', '20px'] 
+
+  - block: collection
+    content:
+      title: Related Research
+      filters:
+        folders:
+          - research
+    design:
+      view: community/project-grid
+      columns: 3
 ---
