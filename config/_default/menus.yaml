@@ -17,5 +17,18 @@ main:
     url: publication/
     weight: 40
   - name: +
+    identifier: add
     url: additional/
+    weight: 50
+  - name: Activities
+    parent: add
+    url: additional/#activities
+    weight: 50
+  - name: Awards
+    parent: add
+    url: additional/#awards
+    weight: 50
+  - name: Certifications
+    parent: add
+    url: additional/#certs
     weight: 50

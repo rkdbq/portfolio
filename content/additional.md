@@ -43,6 +43,7 @@ sections:
   #       padding: ['20px', '20px', '20px', '20px']
 
   - block: collection
+    id: activities
     content:
       title: Activities
       filters:
@@ -52,6 +53,7 @@ sections:
       view: community/additional
 
   - block: collection
+    id: awards
     content:
       title: Awards
       filters:
@@ -61,6 +63,7 @@ sections:
       view: community/additional
 
   - block: collection
+    id: certs
     content:
       title: Certifications
       filters:
