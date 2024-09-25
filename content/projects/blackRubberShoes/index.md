@@ -12,7 +12,7 @@ featured: true
 'BlackRubberShoes'는 검정고무신 이미지 생성 애플리케이션입니다.
 
 - 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/BRS_server)
-- 사용 기술: {{< icon name="devicon/python" >}} | {{< icon name="devicon/pytorch" >}} | {{< icon name="devicon/amazonwebservices" >}} | {{< icon name="devicon/flask" >}} | locust
+- 사용 기술: {{< icon name="devicon/python" >}} | {{< icon name="devicon/pytorch" >}} | AWS | {{< icon name="devicon/flask" >}} | locust
 - 개발 환경: {{< icon name="devicon/apple" >}} | {{< icon name="devicon/docker" >}}
 - 개발 기간: 2024년 3월 - 2024년 6월
 
