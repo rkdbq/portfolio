@@ -56,12 +56,12 @@ sections:
       
   - block: collection
     content:
-      title: Interests
+      title: Activities
       filters:
         folders:
-          - hobbies
+          - activities
     design:
-      view: community/main-grid
+      view: community/project-grid
       columns: 3
       background:
         image:

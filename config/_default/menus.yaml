@@ -16,13 +16,9 @@ main:
   - name: Publications
     url: publication/
     weight: 40
-  - name: +
+  - name: 🏆
     identifier: add
     url: additional/
-    weight: 50
-  - name: Activities
-    parent: add
-    url: additional/#activities
     weight: 50
   - name: Awards
     parent: add
