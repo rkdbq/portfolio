@@ -33,5 +33,5 @@ sections:
           - research
     design:
       view: community/project-grid
-      columns: 3
+      columns: 2
 ---
