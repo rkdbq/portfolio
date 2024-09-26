@@ -72,10 +72,10 @@ sections:
 
   - block: collection
     content:
-      title: Etc.
+      title: 🎶
       filters:
         folders:
-          - hobbies_copy
+          - etc
     design:
       view: community/main-grid
       columns: 3
