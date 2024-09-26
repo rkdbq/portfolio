@@ -1,9 +1,10 @@
 ---
-title: AngelHack
-summary: Dormitory Roommate Matching Platform for Mobile
-date: 2023-01-01
+title: AngelHack Hackseoul 해커톤 2024
+summary: 2024년 8월
+date: 2024-09-26
 type: docs
 math: false
+featured: true
 ---
 
 [Github](https://github.com/rkdbq/Roomie-v2)

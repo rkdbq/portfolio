@@ -1,9 +1,10 @@
 ---
 title: ALPS
-summary: Dormitory Roommate Matching Platform for Mobile
-date: 2023-01-01
+summary: 2019년 3월 - 현재
+date: 2024-09-26
 type: docs
 math: false
+featured: true
 ---
 
 [Github](https://github.com/rkdbq/Roomie-v2)
