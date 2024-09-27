@@ -1,5 +1,5 @@
 ---
-title: AngelHack Hackseoul 해커톤 2024
+title: AngelHack Hackseoul 2024
 summary: 2024년 8월
 date: 2024-09-26
 type: docs
