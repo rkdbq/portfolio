@@ -1,7 +1,7 @@
 ---
 title: IPRF 2024
-summary: 2024년 8월
-date: 2024-09-26
+# summary: "'24. 펜타포트 락 페스티벌"
+date: 2024-08-04
 type: docs
 math: false
 featured: true

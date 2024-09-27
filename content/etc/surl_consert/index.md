@@ -1,7 +1,7 @@
 ---
-title: SURL <ringringring>
-summary: 2023년 9월 - 2023년 12월
-date: 2024-09-23
+title: ringringring
+summary: "'24. SURL 기획 공연"
+date: 2024-07-26
 type: docs
 math: false
 ---
