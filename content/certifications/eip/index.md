@@ -5,5 +5,5 @@ date: 2024-09-18
 type: docs
 math: false
 
-url_pdf: /certifications/Engineer_Information_Processing.pdf
+url_pdf: certifications/Engineer_Information_Processing.pdf
 ---

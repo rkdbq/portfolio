@@ -5,5 +5,5 @@ date: 2024-07-30
 type: docs
 math: false
 
-url_pdf: /certifications/TOEIC_Speaking.pdf
+url_pdf: certifications/TOEIC_Speaking.pdf
 ---
