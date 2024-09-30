@@ -16,7 +16,7 @@ date: "2024-09-01T00:00:00Z"
 # publication_types: ["international-journal"]
 
 # # Publication name and optional abbreviated publication name.
-# publication: "Computers in Industry"
+publication: "_Computers in Industry_, Under Review"
 # publication_short: ""
 
 # # links:
