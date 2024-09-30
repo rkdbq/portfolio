@@ -6,7 +6,7 @@
 # Website name
 title: rkdbq
 # Website URL
-baseURL: 'https://rkdbq.github.io/portfolio'
+baseURL: 'https://example.com/portfolio'
 
 ############################
 ## LANGUAGE
