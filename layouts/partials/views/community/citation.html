@@ -19,7 +19,7 @@
   {{ end }}
 
   {{ if $has_attachments }}
-  <span class="flex-wrap space-x-3">
+  <span class="flex-wrap space-x-3 hover-effect">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </span>
   {{ end }}
@@ -39,10 +39,42 @@
   {{- $item.Date.Format "2006" -}}.
 
   {{ if $has_attachments }}
-  <div class="flex flex-wrap space-x-3">
+  <div class="flex">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </div>
   {{ end }}
 
   {{ end }}
 </div>
+
+<style>
+  .hover-effect a {
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+
+  .hover-effect a::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 2px;
+    background: currentColor;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+  }
+
+  .hover-effect a:hover {
+    color: #1a73e8; /* 원하는 색상으로 변경 */
+    transform: translateY(-2px);
+  }
+
+  .hover-effect a:hover::before {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+</style>
