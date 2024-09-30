@@ -10,7 +10,7 @@ math: false
 
 '구해줘! 룸메'는 Windows 기반 룸메이트 매칭 플랫폼입니다.
 
-MVVM 디자인 패턴을 적용을 중점으로 개발했습니다.
+MVVM 디자인 패턴을 적용하여 리팩토링했습니다.
 
 - 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/FindRoommate) | [{{< icon name="hero/document" >}}](구해줘!룸메.pdf)
 - 사용 기술: {{< icon name="devicon/csharp" >}}| WPF | {{< icon name="devicon/microsoftsqlserver" >}}

@@ -10,9 +10,8 @@ math: false
 
 'Roomie'는 모바일 기반 룸메이트 매칭 플랫폼입니다.
 
-기존 '[구해줘!룸메](/projects/findRoommate)' 프로젝트를 모바일 환경에 맞도록 처음부터 개발했습니다.
+기존 '[구해줘!룸메](/projects/findRoommate)' 프로젝트를 모바일 환경에 맞추어 처음부터 개발해 **배포**했습니다.
 
-배포까지 진행했습니다.
 
 - 배포: [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774374) | [앱스토어](https://apps.apple.com/us/app/roomie/id6477328689)
 - 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/Roomie-v2) | [{{< icon name="hero/document" >}}](Roomie.pdf)
@@ -27,7 +26,7 @@ math: false
     - 두 번의 설문조사를 통해 사용자 요구사항을 정량적으로 확인했습니다.
     - 2023년 1월에 진행한 1차 설문조사에서 138명의 응답을 수집했습니다.
     - 2023년 7월에 진행한 2차 설문조사에서 129명의 응답을 수집했습니다.
-2. 추천 시스템
+2. 추천 시스템 개선
     ![screen reader text](추천시스템.png)
     - 기존 사용자가 수동 조작해야 하는 필터에서 Content-based Filtering 기반으로 변경함으로써 사용자 편의를 향상했습니다.
     - Content-based Filtering은 다른 사용자의 데이터를 필요로 하지 않으므로 초기 서비스에 적절하다고 생각해 채택했습니다.
@@ -39,6 +38,6 @@ math: false
 ### 한계
 
 1. 유지보수
-    - 기존 기숙사 시스템 개편으로 인해 충분한 사용자를 확보하지 못했습니다. 따라서 유지보수 단계까지 진행해보지 못했습니다.
+    - 기존 기숙사 시스템 개편으로 인해 충분한 사용자를 확보하지 못했습니다.
 2. 세부 기능
-    - 언어 변경 등 세부 기능을 추가해야 할 필요가 있습니다.
+    - 다국어 지원 등 세부 기능을 추가해야 할 필요가 있습니다.
