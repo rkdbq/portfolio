@@ -5,5 +5,5 @@ date: 2023-12-30
 type: docs
 math: false
 
-url_pdf: /awards/2023_작품경진대회.pdf
+url_pdf: awards/2023_작품경진대회.pdf
 ---

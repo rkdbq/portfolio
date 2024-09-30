@@ -5,5 +5,5 @@ date: 2024-06-18
 type: docs
 math: false
 
-url_pdf: /awards/2024_인공지능_경진대회.pdf
+url_pdf: awards/2024_인공지능_경진대회.pdf
 ---

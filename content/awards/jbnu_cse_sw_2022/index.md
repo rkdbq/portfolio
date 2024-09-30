@@ -5,5 +5,5 @@ date: 2024-09-30
 type: docs
 math: false
 
-url_pdf: /awards/2022_작품경진대회.pdf
+url_pdf: awards/2022_작품경진대회.pdf
 ---
