@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: community/resume-biography-3-custom
+    id: about
     content:
       # The user's folder name in `content/authors/`
       username: admin
