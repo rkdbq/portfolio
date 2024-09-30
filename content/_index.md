@@ -131,5 +131,5 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-      css_class: 'hero-title'
+      css_class: 'carousel wg-hero hero-title'
 ---
