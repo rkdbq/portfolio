@@ -89,7 +89,8 @@ sections:
 
       # Image Slider with upsplash images at least 3
       # Text overlay also
-  - block: community/slider
+      
+  - block: slider
     content:
       slides:
       - title: 👋 Welcome to the group
@@ -97,7 +98,7 @@ sections:
         align: center
         background:
           image:
-            filename: icon.png
+            filename: contact.jpg
             filters:
               brightness: 0.7
           position: right
@@ -122,11 +123,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: https://google.com
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -135,5 +131,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-      css_class: 'carousel wg-hero hero-title'
 ---
