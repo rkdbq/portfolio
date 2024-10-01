@@ -24,6 +24,7 @@ sections:
       view: community/citation
       spacing:
         padding: ['20px', '20px', '20px', '20px'] 
+      css_class: 'hover-effect'
 
   - block: collection
     content:

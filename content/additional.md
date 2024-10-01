@@ -12,6 +12,7 @@ sections:
           - awards
     design:
       view: community/additional
+      css_class: 'hover-effect'
 
   - block: collection
     id: certs
@@ -22,4 +23,5 @@ sections:
           - certifications
     design:
       view: community/additional
+      css_class: 'hover-effect'
 ---
