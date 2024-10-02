@@ -30,4 +30,6 @@ url_pdf: papers/COMIND-S-24-00998-2.pdf
 # url_slides: ''
 # url_source: ''
 # url_video: ''
+
+featured: true
 ---

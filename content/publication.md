@@ -29,13 +29,13 @@ sections:
         padding: ['20px', '20px', '20px', '20px'] 
       css_class: 'hover-effect'
 
-  - block: collection
-    content:
-      title: Related Research
-      filters:
-        folders:
-          - research
-    design:
-      view: community/project-grid
-      columns: 2
+  # - block: collection
+  #   content:
+  #     title: Related Research
+  #     filters:
+  #       folders:
+  #         - research
+  #   design:
+  #     view: community/project-grid
+  #     columns: 2
 ---
