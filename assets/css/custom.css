@@ -253,3 +253,7 @@ a.hero-cta-alt:hover {
   transform: scaleX(1);
   transform-origin: left;
 }
+
+body, h1, h2, h3, h4, h5, h6, p, a, li, blockquote, div {
+  font-family: sans-serif;
+} 
