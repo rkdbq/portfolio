@@ -14,7 +14,7 @@ featured: true
 Lambda API와 오토 스케일링되는 인스턴스 서버를 각각 구축한 후, 두 서버의 가용성 및 비용을 비교했습니다.
 
 - 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/BRS_server) | [{{< icon name="hero/document" >}}](BRS.pdf)
-- 사용 기술: {{< icon name="devicon/python" >}} | {{< icon name="devicon/pytorch" >}} | AWS | {{< icon name="devicon/flask" >}} | locust
+- 사용 기술: {{< icon name="devicon/python" >}} | {{< icon name="devicon/pytorch" >}} | {{< icon name="custom/aws" >}} | {{< icon name="devicon/flask" >}} | locust
 - 개발 환경: {{< icon name="devicon/apple" >}} | {{< icon name="devicon/windows8" >}} | {{< icon name="devicon/docker" >}}
 - 개발 기간: 2024년 3월 - 2024년 6월
 
