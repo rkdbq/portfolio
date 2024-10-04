@@ -1,13 +1,11 @@
 ---
-title: "Optimizing
-Image Format P&ID Recognition: Integrating Symbol and Text Recognition with a Single
-Backbone Architecture"
+title: "Optimizing Image Format P&ID Recognition: Integrating Symbol and Text Recognition with a Single Backbone Architecture"
 authors:
-- Jun-hyung Byun
-- admin
-- Du-hwan Mun
-- Gwang Lee
-- Hyung-ki Kim
+  - Jun-hyung Byun
+  - admin
+  - Du-hwan Mun
+  - Gwang Lee
+  - Hyung-ki Kim
 date: "2024-09-01T00:00:00Z"
 
 # # Publication type.

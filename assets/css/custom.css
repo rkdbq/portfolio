@@ -152,24 +152,28 @@
 /* The Slider widget reuses the Hero widget's `.wg-hero` class.
  * We must remove any `animation` and `clear` (although Hero no longer sets `clear: both`) in this instance or
  * multiple slides can be `.active` at once. */
- .carousel-inner .wg-hero {
+.carousel-inner .wg-hero {
   animation: none;
-  clear: none; }
+  clear: none;
+}
 
-  /*************************************************
+/*************************************************
  *  Hero Widget
  **************************************************/
 .wg-hero {
-  padding: 3em 0; }
+  padding: 3em 0;
+}
 
 .hero-title {
   font-size: 2.7rem;
   margin-top: 0;
-  line-height: 1; }
+  line-height: 1;
+}
 
 .hero-lead {
   max-width: 768px;
-  font-size: 1.35rem; }
+  font-size: 1.35rem;
+}
 
 .wg-hero.dark .hero-title,
 .wg-hero.dark .hero-lead,
@@ -177,25 +181,32 @@
 .wg-hero.dark .hero-note > * {
   color: #fff;
   /* text-shadow: 1px 1px 4px rgba(0,0,0,0.5); */
-  /* Uncomment to standout on complicated backgrounds. */ }
+  /* Uncomment to standout on complicated backgrounds. */
+}
 
 .wg-hero.light a.btn {
-  color: #fff; }
+  color: #fff;
+}
 
 .wg-hero.dark a:not(.wg-hero .btn) {
-  color: #fff; }
+  color: #fff;
+}
 
 .wg-hero .hero-lead a {
-  text-decoration: underline; }
+  text-decoration: underline;
+}
 
 .wg-hero .cta-btns {
-  margin-bottom: 16px; }
+  margin-bottom: 16px;
+}
 
 .wg-hero .btn {
-  padding: 0.6em 2.1em; }
+  padding: 0.6em 2.1em;
+}
 
 .wg-hero.dark .btn {
-  color: #104d92; }
+  color: #104d92;
+}
 
 a.hero-cta-alt {
   display: inline-block;
@@ -203,26 +214,32 @@ a.hero-cta-alt {
   transition-duration: 0.2s;
   transition-property: transform;
   transition-timing-function: ease-out;
-  font-size: 1.1rem; }
+  font-size: 1.1rem;
+}
 
 a.hero-cta-alt:active,
 a.hero-cta-alt:focus,
 a.hero-cta-alt:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+}
 
-.wg-hero .btn-lg, .wg-hero .btn-group-lg > .btn {
-  font-size: 1.1rem; }
+.wg-hero .btn-lg,
+.wg-hero .btn-group-lg > .btn {
+  font-size: 1.1rem;
+}
 
 .wg-hero .hero-note {
-  font-size: 0.8rem; }
+  font-size: 0.8rem;
+}
 
 .hero-media {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
-  text-align: center; }
- */
+  text-align: center;
+}
+*/
 
 /* hover-effect */
 .hover-effect a {
@@ -232,7 +249,7 @@ a.hero-cta-alt:hover {
 }
 
 .hover-effect a::before {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   bottom: -2px;
@@ -254,6 +271,17 @@ a.hero-cta-alt:hover {
   transform-origin: left;
 }
 
-body, h1, h2, h3, h4, h5, h6, p, a, li, blockquote, div {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+li,
+blockquote,
+div {
   font-family: sans-serif;
-} 
+}

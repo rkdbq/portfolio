@@ -12,20 +12,20 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: '강봉구의 포트폴리오입니다.'
-    twitter: ''
+    local_business_type: ""
+    org_name: ""
+    description: "강봉구의 포트폴리오입니다."
+    twitter: ""
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: ""
+    baidu_tongji: ""
+    plausible: ""
+    fathom: ""
+    pirsch: ""
   verification:
-    google: 'ILYI8KmmwdSfEtOXmMqIQ0hQpdUZfY9y3IFrgPKW3bY'
-    baidu: ''
-    naver: 'afa4c320040e3b116ac032270019d46810289d23'
+    google: "ILYI8KmmwdSfEtOXmMqIQ0hQpdUZfY9y3IFrgPKW3bY"
+    baidu: ""
+    naver: "afa4c320040e3b116ac032270019d46810289d23"
 
 # Site header
 header:
@@ -42,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: "© {year} Me. This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: false
@@ -51,8 +51,8 @@ footer:
 
 # Localization
 locale:
-  date_format: '2006년 Jan 2일'
-  time_format: '15:04'
+  date_format: "2006년 Jan 2일"
+  time_format: "15:04"
 
 # Site features
 features:
