@@ -1,6 +1,6 @@
 ---
 title: ECC
-summary: March 2024 - June 2024
+summary: Mar. 2024 - Jun. 2024
 date: 2024-09-26
 type: docs
 math: false

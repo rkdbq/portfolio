@@ -1,6 +1,6 @@
 ---
 title: ALPS
-summary: March 2019 - Present
+summary: Mar. 2019 - Present
 date: 2024-10-04
 type: docs
 math: false
