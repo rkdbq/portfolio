@@ -1,16 +1,16 @@
 ---
 title: AngelHack Hackseoul 2024
-summary: 2024년 8월
+summary: August 2024
 date: 2024-09-26
 type: docs
 math: false
 featured: true
 ---
 
-AngelHack이 주최하고 쿠팡, zkPass가 주관한 글로벌 해커톤에 참여했습니다.
+Participated in the global hackathon hosted by AngelHack and organized by Coupang and zkPass.
 
-Social Responsibility 트랙에서 쿠팡의 인프라를 이용한 포장재 회수를 주제로 발표해 **본선 진출**했습니다.
+**Advanced to the final round** by presenting on the topic of packaging material retrieval using Coupang's infrastructure in the Social Responsibility track.
 
-문서: [{{< icon name="brands/github" >}}](https://github.com/bootkorea/Plow)
+Document: [{{< icon name="brands/github" >}}](https://github.com/bootkorea/Plow)
 
 {{<youtube -LtBtlGEpQo>}}
