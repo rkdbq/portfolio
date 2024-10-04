@@ -1,6 +1,6 @@
 ---
-title: 전북대학교 컴퓨터인공지능학부 작품 경진대회 2023 동상
-summary: 2023년 12월
+title: 3rd Prize at JBNU CSAI Software Creation Competition 2023
+summary: Dec. 2023
 date: 2023-12-21
 type: docs
 math: false

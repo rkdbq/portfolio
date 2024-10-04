@@ -1,6 +1,6 @@
 ---
-title: 전북대학교 SW중심대학 인공지능 온라인 경진대회 2024 금상
-summary: 2024년 6월
+title: 2nd Prize at JBNU SW Univ. AI Online Competition 2024
+summary: Jun. 2024
 date: 2024-06-07
 type: docs
 math: false

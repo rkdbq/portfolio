@@ -1,6 +1,6 @@
 ---
 title: TOEIC Speaking IH
-summary: 2024년 7월
+summary: Jul. 2024
 date: 2024-07-06
 type: docs
 math: false

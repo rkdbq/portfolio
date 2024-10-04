@@ -1,6 +1,6 @@
 ---
-title: 정보처리기사
-summary: 2024년 9월
+title: Engineer Information Processing
+summary: Sep. 2024
 date: 2024-09-10
 type: docs
 math: false

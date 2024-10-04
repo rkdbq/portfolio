@@ -1,6 +1,6 @@
 ---
-title: 전북대학교 컴퓨터공학부 작품 경진대회 2022 동상
-summary: 2022년 12월
+title: 3rd Prize at JBNU CSE Software Creation Competition 2022
+summary: Dec. 2022
 date: 2022-12-09
 type: docs
 math: false
