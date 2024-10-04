@@ -94,15 +94,15 @@ sections:
       - background: 
           content: Osaka, 2019
           image:
-            filename: trip/osaka.jpg
+            filename: trip/osaka.jpeg
       - background: 
           content: Dokyo, 2020
           image:
-            filename: trip/dokyo.jpg
+            filename: trip/dokyo.jpeg
       - background: 
           content: Cebu, 2023
           image:
-            filename: trip/cebu.jpg
+            filename: trip/cebu.jpeg
       - background: 
           content: Fukuoka, 2023
           image:
