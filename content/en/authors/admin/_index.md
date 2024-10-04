@@ -3,8 +3,8 @@
 title: Bong-gu Kang
 
 # Full name (for SEO)
-first_name: 봉구
-last_name: 강
+first_name: Bonggu
+last_name: Kang
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,23 +26,23 @@ profiles:
     url: https://www.linkedin.com/in/rkdbq
 
 education:
-  - area: 컴퓨터공학 학사
-    institution: 전북대학교
+  - area: Bachelor of Computer Science and Engineering
+    institution: Jeonbuk National University
     date_start: 2019-03-01
     date_end: ''
     summary: |
-      - 전공 GPA 4.35 / 4.50
-      - 전체 GPA 4.16 / 4.50
+      - Major GPA 4.35 / 4.50
+      - Cumulative GPA 4.16 / 4.50
 work:
-  - position: 학부연구생
-    company_name: '비주얼컴퓨팅 연구실 (지도교수: 김형기)'
+  - position: Undergraduate Intern
+    company_name: 'Visual Computing Lab. (Advisor: Prof. Hyung-ki Kim)'
     company_url: https://sites.google.com/view/vclab-cnu
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |
-      - LOD 최적화 연구
-      - P&ID 객체 검출 및 텍스트 인식 연구
+      - LOD Optimization Research
+      - P&ID Object Detection & Text Recognition Research
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -79,14 +79,14 @@ work:
 #         icon: camera
 
 languages:
-  - name: 한국어
+  - name: Korean
     percent: 100
-  - name: 영어
+  - name: English
     percent: 50
 ---
 
-#### 전북대학교 컴퓨터공학부에 재학 중인 강봉구입니다.
-### 깊은 경험을 쌓아나가고 싶습니다.
-- [언어 공부부터 시작해 기숙사 룸메이트 매칭 플랫폼을 배포한 경험이 있습니다.](projects/roomie/)
-- [모델 이해부터 시작해 비주얼컴퓨팅 연구실에서 두 연구에 기여했습니다.](publication/)
-- [1학년 때부터 교내 알고리즘 동아리 ALPS에서 활동하며 2023년 부회장을 수행했습니다.](activities/alps/)
+#### I am a student in the Department of Computer Science at Jeonbuk National University.
+### I aim to build deep and meaningful experiences.
+- [Started with language study and deployed a dormitory roommate matching platform.](projects/roomie/)
+- [Contributed to two research projects at the Visual Computing Lab, starting with model understanding.](publication/)
+- [Have been active in the on-campus algorithm club ALPS since my freshman year, serving as Vice President in 2023.](activities/alps/)
