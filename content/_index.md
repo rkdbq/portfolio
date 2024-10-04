@@ -29,7 +29,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: "2006년 January"
+      date_format: '2006년 January'
       # Education or Experience section first?
       is_education_first: true
 
@@ -49,8 +49,8 @@ sections:
           - projects
     design:
       view: community/project-grid
-      columns: 3
-
+      columns: 3 
+      
   - block: collection
     content:
       title: Activities
@@ -89,7 +89,7 @@ sections:
 
       # Image Slider with upsplash images at least 3
       # Text overlay also
-
+      
   # - block: slider
   #   content:
   #     slides:

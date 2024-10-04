@@ -19,7 +19,7 @@ role: Student @ JBNU CSE
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: hero/envelope
-    url: "mailto:rkdbg11752@jbnu.ac.kr"
+    url: 'mailto:rkdbg11752@jbnu.ac.kr'
   - icon: brands/github
     url: https://github.com/rkdbq
   - icon: brands/linkedin
@@ -29,15 +29,15 @@ education:
   - area: 컴퓨터공학 학사
     institution: 전북대학교
     date_start: 2019-03-01
-    date_end: ""
+    date_end: ''
     summary: |
       - 전공 GPA 4.35 / 4.50
       - 전체 GPA 4.16 / 4.50
 work:
   - position: 학부연구생
-    company_name: "비주얼컴퓨팅 연구실 (지도교수: 김형기)"
+    company_name: '비주얼컴퓨팅 연구실 (지도교수: 김형기)'
     company_url: https://sites.google.com/view/vclab-cnu
-    company_logo: ""
+    company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |
@@ -86,7 +86,6 @@ languages:
 ---
 
 ### 깊은 경험을 쌓아나가고 싶습니다
-
 - 언어 공부부터 시작해 기숙사 룸메이트 매칭 플랫폼을 배포한 경험이 있습니다.
 - 모델 이해부터 시작해 비주얼컴퓨팅 연구실에서 두 연구에 기여했습니다.
 - 교내 알고리즘 동아리 ALPS에서 부회장으로 활동했습니다.

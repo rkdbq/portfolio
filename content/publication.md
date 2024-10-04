@@ -15,7 +15,7 @@ sections:
     design:
       view: community/citation
       spacing:
-        padding: ["20px", "20px", "20px", "20px"]
+        padding: ['20px', '20px', '20px', '20px']
 
   - block: collection
     content:
@@ -26,8 +26,8 @@ sections:
     design:
       view: community/citation
       spacing:
-        padding: ["20px", "20px", "20px", "20px"]
-      css_class: "hover-effect"
+        padding: ['20px', '20px', '20px', '20px'] 
+      css_class: 'hover-effect'
 
   # - block: collection
   #   content:

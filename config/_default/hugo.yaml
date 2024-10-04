@@ -6,7 +6,7 @@
 # Website name
 title: rkdbq
 # Website URL
-baseURL: "https://example.com/portfolio"
+baseURL: 'https://example.com/portfolio'
 
 ############################
 ## LANGUAGE
@@ -31,7 +31,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: "/author/:slug/"
+  authors: '/author/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
