@@ -10,7 +10,7 @@ math: false
 
 'Roomie'는 모바일 기반 룸메이트 매칭 플랫폼입니다.
 
-기존 '[구해줘!룸메](/projects/findRoommate)' 프로젝트를 모바일 환경에 맞추어 처음부터 개발해 **배포**했습니다.
+기존 '[구해줘!룸메](../findRoommate)' 프로젝트를 모바일 환경에 맞추어 처음부터 개발해 **배포**했습니다.
 
 
 - 배포: [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774374) | [앱스토어](https://apps.apple.com/us/app/roomie/id6477328689)
