@@ -7,10 +7,6 @@ math: false
 featured: true
 ---
 
-[Github](https://github.com/rkdbq/Roomie-v2)
+ECC(English Conversation Club)는 교내 영어회화 중앙동아리입니다.
 
-Implemented an algorithm for recommending users based on behavior similarity using content-based filtering and served as the front-end development lead.
-Deployed to both iOS and Android marketplaces.
-Technologies used: Dart, Flutter, Firebase.
-
-**ALPS** (Algorithm & Programming Study Group) [{{< icon name="brands/github" >}}](https://www.google.com) 
+- 2024년에 가입해 International Gathering에 참여했습니다.
