@@ -1,6 +1,6 @@
 ---
-title: 구해줘! 룸메
-summary: 2022년 3월 - 2022년 6월
+title: FindRoommate
+summary: Mar. 2022 - Jun. 2022
 date: 2024-09-18
 type: docs
 math: false
@@ -8,14 +8,15 @@ math: false
 
 ### 개요
 
-'구해줘! 룸메'는 Windows 기반 룸메이트 매칭 플랫폼입니다.
+'FindRoommate'is a Windows-based roommate matching platform.
 
-MVVM 디자인 패턴을 적용하여 리팩토링했습니다.
+Refactored by applying the MVVM design pattern.
 
-- 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/FindRoommate) | [{{< icon name="hero/document" >}}](구해줘!룸메.pdf)
-- 사용 기술: {{< icon name="devicon/csharp" >}}| WPF | {{< icon name="devicon/microsoftsqlserver" >}}
-- 개발 환경: {{< icon name="devicon/windows8" >}}
-- 개발 기간: 2022년 3월 - 2022년 6월
+- Documentation: [{{< icon name="hero/document" >}}](구해줘!룸메.pdf)
+- Code: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/FindRoommate) 
+- Technologies Used: {{< icon name="devicon/csharp" >}}| WPF | {{< icon name="devicon/microsoftsqlserver" >}}
+- Dev. Environment: {{< icon name="devicon/windows8" >}}
+- Dev. Period: Mar. 2022 - Jun. 2022
 
 {{<youtube Pw42_G7Vc5U>}}
 
@@ -32,23 +33,23 @@ MVVM 디자인 패턴을 적용하여 리팩토링했습니다.
 
 우리 팀은 위 문제를 해결하고자 구체적이고 능동적인 룸메이트 배정 방식을 도입한 프로그램을 만들고자 했습니다. -->
 
-### <u>내가 기여한 점</u>
+### <u>My Contributions</u>
 
-1. MVVM 디자인 패턴 적용
-    - Data Binding을 통해 UI와 사용자 입력을 분리함으로써 DB 데이터 변경과 디자인 요소를 각각 관리하도록 했습니다.
-2. 기능 구현
+1. Applied MVVM Design Pattern
+    - Managed database data changes and design elements separately by separating UI and user input through Data Binding.
+2. Feature Implementation
     ![screen reader text](회원가입.png)
-    - 이메일 인증: 랜덤 생성해 발송한 코드와 사용자 입력이 일치하는지 확인함으로써 회원가입 시 교내 학생임을 보장했습니다.
+    - Email Verification: Ensured that users were university students by verifying the randomly generated and sent code with the user input during registration.
     ![screen reader text](프로필.png)
-    - 프로필: 임시 객체에 DB 정보를 파싱한 후, 사용자가 값을 수정했을 때 DB 정보를 갱신하도록 했습니다.
+    - Profile: Parsed database information into a temporary object, allowing users to update the database information when they modified values.
     ![screen reader text](검색.png)
-    - 검색: 사용자 입력으로 DB에서 탐색한 데이터를 ListView로 표시하도록 했습니다.
+    - Search: Displayed data retrieved from the database based on user input in a ListView.
     ![screen reader text](채팅.png)
-    - 채팅: 전송 버튼을 클릭했거나 서버에서 상대가 전송한 메시지를 확인했을 때 채팅 메시지 ListView를 갱신하도록 했습니다.
+    - Chat: Updated the chat message ListView when the send button was clicked or a message was received from the server.
 
-### 한계
+### Limitations
 
-1. 비동기 통신의 부재
-    - 소켓 기반의 실시간 채팅만 구현했다는 점이 아쉬움으로 남습니다.
+1. Lack of Asynchronous Communication
+    - It is regrettable that only socket-based real-time chat was implemented.
 2. UI
-    - 사용자 친화적인 인터페이스를 제공하지 못했습니다.
+    - Did not provide a user-friendly interface.

@@ -1,43 +1,44 @@
 ---
 title: Roomie
-summary: 2023년 1월 - 2024년 2월
+summary: Jan. 2023 - Feb. 2024
 date: 2024-09-19
 type: docs
 math: false
 ---
 
-### 개요
+### Overview
 
-'Roomie'는 모바일 기반 룸메이트 매칭 플랫폼입니다.
+'Roomie' is a mobile-based roommate matching platform.
 
-기존 '[구해줘!룸메](../findRoommate)' 프로젝트를 모바일 환경에 맞추어 처음부터 개발해 **배포**했습니다.
+Rebuilt and **deployed** the existing '[FindRoommate](../findRoommate)' project from scratch to fit the mobile environment.
 
 
-- 배포: [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774374) | [앱스토어](https://apps.apple.com/us/app/roomie/id6477328689)
-- 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/Roomie-v2) | [{{< icon name="hero/document" >}}](Roomie.pdf)
-- 사용 기술: {{< icon name="devicon/dart" >}} | {{< icon name="devicon/flutter" >}} | {{< icon name="devicon/firebase" >}}
-- 개발 환경: {{< icon name="devicon/android" >}} | {{< icon name="devicon/apple" >}}
-- 개발 기간: 2023년 1월 - 2024년 2월
+- Deployment: [One Store](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774374) | [App Store](https://apps.apple.com/us/app/roomie/id6477328689)
+- Documentation: [{{< icon name="hero/document" >}}](Roomie.pdf)
+- Code: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/Roomie-v2) 
+- Technologies Used: {{< icon name="devicon/dart" >}} | {{< icon name="devicon/flutter" >}} | {{< icon name="devicon/firebase" >}}
+- Dev. Environment: {{< icon name="devicon/android" >}} | {{< icon name="devicon/apple" >}}
+- Dev. Period: Jan. 2023 - Feb. 2024
 
-### <u>내가 기여한 점</u>
+### <u>My Contributions</u>
 
-1. 요구사항 분석
+1. Requirements Analysis
     ![screen reader text](설문조사.png)
-    - 두 번의 설문조사를 통해 사용자 요구사항을 정량적으로 확인했습니다.
-    - 2023년 1월에 진행한 1차 설문조사에서 138명의 응답을 수집했습니다.
-    - 2023년 7월에 진행한 2차 설문조사에서 129명의 응답을 수집했습니다.
-2. 추천 시스템 개선
+    - Conducted two surveys to quantitatively confirm user requirements.
+    - Collected 138 responses in the first survey in Jan. 2023.
+    - Collected 129 responses in the second survey in Jul. 2023.
+2. Improved Recommendation System
     ![screen reader text](추천시스템.png)
-    - 기존 사용자가 수동 조작해야 하는 필터에서 Content-based Filtering 기반으로 변경함으로써 사용자 편의를 향상했습니다.
-    - Content-based Filtering은 다른 사용자의 데이터를 필요로 하지 않으므로 초기 서비스에 적절하다고 생각해 채택했습니다.
-    - 사용자의 피드백에 따라 각 항목의 가중치를 조절해 더 나은 프로필이 추천되도록 했습니다.
-3. 채팅
+    - Enhanced user convenience by switching from manual filter adjustments to Content-based Filtering.
+    - Adopted Content-based Filtering as it does not require data from other users, making it suitable for the initial service launch.
+    - Adjusted the weights of each item based on user feedback to recommend better profiles.
+3. Chat
     ![screen reader text](채팅.png)
-    - 기존 소켓 통신 방식에서 Flutter의 Stream을 통해 비동기 방식으로 전환함으로써 비동기 통신 또한 가능하도록 했습니다.
+    - Transitioned from the existing socket communication method to an asynchronous method using Flutter's Stream, enabling asynchronous communication.
 
-### 한계
+### Limitations
 
-1. 유지보수
-    - 기존 기숙사 시스템 개편으로 인해 충분한 사용자를 확보하지 못했습니다.
-2. 세부 기능
-    - 다국어 지원 등 세부 기능을 추가해야 할 필요가 있습니다.
+1. Lack of Maintenance
+    - Failed to secure a sufficient user base due to the overhaul of the existing dormitory system.
+2. Additional Features
+    - Need to add detailed features such as multi-language support.

@@ -1,6 +1,6 @@
 ---
-title: 휠체어테니스VR
-summary: 2024년 3월 - 2024년 6월
+title: WheelchairTennisVR
+summary: Mar. 2024 - Jun. 2024
 date: 2024-10-01
 type: docs
 math: false
@@ -8,47 +8,47 @@ math: false
 
 ### 개요
 
-'휠체어테니스VR'은 멀미 이론에 입각한 VR 애플리케이션입니다.
+'WheelchairTennisVR' is a VR application based on motion sickness theory.
 
-- 문서: [{{< icon name="hero/document" >}}](WheelchairTennisVR.pdf)
-- 사용 기술: {{< icon name="devicon/csharp" >}} | {{< icon name="devicon/unity" >}}
-- 개발 환경: Meta Quest 2
-- 개발 기간: 2024년 3월 - 2024년 6월
+- Documentation: [{{< icon name="hero/document" >}}](WheelchairTennisVR.pdf)
+- Technologies Used: {{< icon name="devicon/csharp" >}} | {{< icon name="devicon/unity" >}}
+- Dev. Environment: Meta Quest 2
+- Dev. Period: Mar. 2024 - Jun. 2024
 
 {{<youtube jTjOCecpAfE>}}
 
-### <u>내가 기여한 점</u>
+### <u>My Contributions</u>
 
-#### 구현
-1. 휠체어 움직임
-- 전진 및 후진 시에는 Wheel Collider에 토크를 주었습니다.
-- 방향 전환 시에는 Transform Rotation을 변경했습니다.
-- 핸드림을 휠체어 좌우에 직육면체 큐브로 표현함으로써 실제 탑승자의 가속 시 손 움직임을 반영했습니다.
-- 바퀴, 핸드림에 소리와 진동을 적용했습니다.
+#### Implementation
+1. Wheelchair Movement
+- Applied torque to the Wheel Collider for forward and backward movements.
+- Used Transform Rotation for direction changes.
+- Represented handrims with rectangular cubes on the sides of the wheelchair to reflect the actual hand movements of the rider during acceleration.
+- Added sound and vibration to the wheels and handrims.
 
-2. 테니스 관련
-- 라켓과 볼의 접촉을 판정하고, 스윗 스팟과 타 부위 가중치를 차별 적용했습니다.
-- Physical Material을 사용해 탄성을 구현했습니다.
-- 볼 궤적 색상을 통해 볼의 속도를 파악할 수 있도록 했습니다.
+2. Tennis Related
+- Determined racket and ball contact and differentiated weights for sweet spots and other areas.
+- Implemented elasticity using Physical Material.
+- Allowed players to gauge ball speed through ball trajectory colors.
 
-3. 기타
-- 득점 여부 판정, 점 광원을 통해 현실감을 제공했습니다.
+3. Miscellaneous
+- Provided realism with score determination and point light sources.
 
-#### 멀미 완화
+#### Motion Sickness Mitigation
 
-4. 떨림 방지
-- 방향 전환 시 Wheel Collider에 토크를 주는 방식으로 구현하면 가속 운동에 의해 멀미가 발생할 수 있어 Transform Rotation을 변경하는 불연속적 방향 회전 방식으로 구현했습니다. 또한 Y축 위치를 고정했습니다.
-- Wheel Collider에 서스펜션을 추가했습니다.
-- 소리 및 진동을 적절히 추가하고 실내 환경을 조성함으로써 현실감을 제공했습니다.
+4. Stabilization
+- Implemented direction changes using Transform Rotation instead of torque to the Wheel Collider to prevent motion sickness caused by accelerated motion. Also fixed the Y-axis position.
+- Added suspension to the Wheel Collider.
+- Enhanced realism by appropriately adding sound and vibration and creating an indoor environment.
 
-#### 사용성 개선
+#### Usability Improvements
 
-5. 물리 법칙 보정
-- 휠체어의 마찰력과 멈춤 판정을 보정해 안정적인 휠체어 조작감을 제공했습니다.
-- 공의 기본 운동량과 라켓 운동량을 보간함으로써 '공을 친다'는 핵심 경험을 유지했습니다.
-- 적절한 위치의 라켓을 배치해 트래킹 정확도를 향상했습니다.
+5. Physics Adjustments
+- Adjusted the friction and stopping determination of the wheelchair to provide stable control.
+- Interpolated the basic momentum of the ball and the racket’s momentum to maintain the core experience of "hitting the ball."
+- Positioned the racket accurately to improve tracking accuracy.
 
-### 한계
+### Limitations
 
-1. 멀티 플레이
-- 두 플레이어가 게임을 진행할 수 있도록 기능을 구현해야 할 필요가 있습니다.
+1. Multi-play
+- Need to implement functionality for multiple players to play the game.

@@ -9,7 +9,7 @@ featured: true
 
 [ALPS(Algorithm & Programming Study Group)](https://sites.google.com/view/jbnu-alps) is an on-campus algorithm club.
 
-Document: [{{< icon name="brands/github" >}}](https://github.com/alps-jbnu)
+Code: [{{< icon name="brands/github" >}}](https://github.com/alps-jbnu)
 
 - Joined in 2019 and participated in the C language study group.
 - Participated in data structure and algorithm study groups in 2022. [{{< icon name="brands/github" >}}](https://github.com/rkdbq/22ALPStudy)
