@@ -6,7 +6,7 @@ type: docs
 math: false
 ---
 
-### 개요
+### Overview
 
 'FindRoommate'is a Windows-based roommate matching platform.
 

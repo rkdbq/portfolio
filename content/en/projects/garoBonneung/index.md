@@ -6,7 +6,7 @@ type: docs
 math: false
 ---
 
-### 개요
+### Overview
 
 'GaroBonneung'is a deep learning-based emotional routing application.
 

@@ -6,7 +6,7 @@ type: docs
 math: false
 ---
 
-### 개요
+### Overview
 
 'WheelchairTennisVR' is a VR application based on motion sickness theory.
 
