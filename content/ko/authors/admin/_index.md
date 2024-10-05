@@ -32,7 +32,7 @@ education:
     date_end: ''
     summary: |
       - 전공 GPA 4.35 / 4.50
-      - 전체 GPA 4.16 / 4.50
+      - 전체 GPA 4.16 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_KOR.pdf)
 work:
   - position: 학부연구생
     company_name: '비주얼컴퓨팅 연구실 (지도교수: 김형기)'

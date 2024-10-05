@@ -32,7 +32,7 @@ education:
     date_end: ''
     summary: |
       - Major GPA 4.35 / 4.50
-      - Cumulative GPA 4.16 / 4.50
+      - Cumulative GPA 4.16 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_ENG.pdf)
 work:
   - position: Undergraduate Intern
     company_name: 'Visual Computing Lab. (Advisor: Prof. Hyung-ki Kim)'

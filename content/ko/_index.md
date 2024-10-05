@@ -21,7 +21,7 @@ sections:
       # To link to a file, upload it to your `static/uploads/` folder
       button:
         text: Resume
-        url: uploads/resume.pdf
+        url: ../uploads/resume.pdf 
 
   - block: resume-experience
     id: experience
