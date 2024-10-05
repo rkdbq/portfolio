@@ -14,7 +14,8 @@ math: false
 
 
 - 배포: [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774374) | [앱스토어](https://apps.apple.com/us/app/roomie/id6477328689)
-- 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/Roomie-v2) | [{{< icon name="hero/document" >}}](Roomie.pdf)
+- 문서: [{{< icon name="hero/document" >}}](Roomie.pdf)
+- 코드: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/Roomie-v2) 
 - 사용 기술: {{< icon name="devicon/dart" >}} | {{< icon name="devicon/flutter" >}} | {{< icon name="devicon/firebase" >}}
 - 개발 환경: {{< icon name="devicon/android" >}} | {{< icon name="devicon/apple" >}}
 - 개발 기간: 2023년 1월 - 2024년 2월

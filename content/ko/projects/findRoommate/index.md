@@ -12,7 +12,8 @@ math: false
 
 MVVM 디자인 패턴을 적용하여 리팩토링했습니다.
 
-- 문서: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/FindRoommate) | [{{< icon name="hero/document" >}}](구해줘!룸메.pdf)
+- 문서: [{{< icon name="hero/document" >}}](구해줘!룸메.pdf)
+- 코드: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/FindRoommate) 
 - 사용 기술: {{< icon name="devicon/csharp" >}}| WPF | {{< icon name="devicon/microsoftsqlserver" >}}
 - 개발 환경: {{< icon name="devicon/windows8" >}}
 - 개발 기간: 2022년 3월 - 2022년 6월

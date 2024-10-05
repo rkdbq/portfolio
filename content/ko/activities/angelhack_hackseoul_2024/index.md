@@ -11,6 +11,6 @@ AngelHack이 주최하고 쿠팡, zkPass가 주관한 글로벌 해커톤에 참
 
 Social Responsibility 트랙에서 쿠팡의 인프라를 이용한 포장재 회수를 주제로 발표해 **본선 진출**했습니다.
 
-문서: [{{< icon name="brands/github" >}}](https://github.com/bootkorea/Plow)
+코드: [{{< icon name="brands/github" >}}](https://github.com/bootkorea/Plow)
 
 {{<youtube -LtBtlGEpQo>}}

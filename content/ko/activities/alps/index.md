@@ -9,7 +9,7 @@ featured: true
 
 [ALPS(Algorithm & Programming Study Group)](https://sites.google.com/view/jbnu-alps)는 교내 알고리즘 동아리입니다.
 
-문서: [{{< icon name="brands/github" >}}](https://github.com/alps-jbnu)
+코드: [{{< icon name="brands/github" >}}](https://github.com/alps-jbnu)
 
 - 2019년에 가입해 C언어 스터디에 참여했습니다.
 - 2022년에 자료구조 스터디와 알고리즘 스터디에 참여했습니다. [{{< icon name="brands/github" >}}](https://github.com/rkdbq/22ALPStudy)
