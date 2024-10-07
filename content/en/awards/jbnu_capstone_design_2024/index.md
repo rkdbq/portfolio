@@ -1,5 +1,5 @@
 ---
-title: 3rd Prize at JBNU SWUniv. Capstone Design Competition 2024
+title: 3rd Prize at JBNU SW Univ. Capstone Design Competition 2024
 summary: Jun. 2024
 date: 2024-06-21
 type: docs
