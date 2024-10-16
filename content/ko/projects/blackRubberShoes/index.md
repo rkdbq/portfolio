@@ -17,7 +17,7 @@ Lambda API와 오토 스케일링되는 인스턴스 서버를 각각 구축한 
 - 코드: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/BRS_server) 
 - 사용 기술: {{< icon name="devicon/python" >}} | {{< icon name="devicon/pytorch" >}} | {{< icon name="custom/aws" >}} | {{< icon name="devicon/flask" >}} | locust
 - 개발 환경: {{< icon name="devicon/apple" >}} | {{< icon name="devicon/windows8" >}} | {{< icon name="devicon/docker" >}}
-- 개발 기간: 2024년 3월 - 2024년 6월
+- 개발 기간: 2023년 9월 - 2023년 12월
 
 ### <u>내가 기여한 점</u>
 

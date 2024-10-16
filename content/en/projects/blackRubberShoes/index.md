@@ -17,7 +17,7 @@ After building both a Lambda API and an auto-scaling instance server, I compared
 - Code: [{{< icon name="brands/github" >}}](https://github.com/rkdbq/BRS_server) 
 - Technologies Used: {{< icon name="devicon/python" >}} | {{< icon name="devicon/pytorch" >}} | {{< icon name="custom/aws" >}} | {{< icon name="devicon/flask" >}} | locust
 - Dev. Environment: {{< icon name="devicon/apple" >}} | {{< icon name="devicon/windows8" >}} | {{< icon name="devicon/docker" >}}
-- Dev. Period: Mar. 2024 - Jun. 2024
+- Dev. Period: Sep. 2023 - Dec. 2023
 
 ### <u>My Contributions</u>
 
