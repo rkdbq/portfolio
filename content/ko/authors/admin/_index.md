@@ -19,7 +19,7 @@ role: Student @ JBNU CSE
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: hero/envelope
-    url: 'mailto:rkdbg11752@jbnu.ac.kr'
+    url: 'mailto:rkdbq001011@gmail.com'
   - icon: brands/github
     url: https://github.com/rkdbq
   - icon: brands/linkedin
