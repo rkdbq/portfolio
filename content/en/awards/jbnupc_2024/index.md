@@ -5,5 +5,5 @@ date: 2024-10-12
 type: docs
 math: false
 
-# url_pdf: awards/2024_호남_프로그래밍_경진대회.jpeg
+url_pdf: awards/jbnupc.pdf
 ---
