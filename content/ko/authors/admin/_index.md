@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student @ JBNU CSE
+role: Learner @ Samsung SW Academy for Youth
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -26,13 +26,18 @@ profiles:
     url: https://www.linkedin.com/in/rkdbq
 
 education:
+  - area: 모바일 전공 트랙
+    institution: 삼성 청년 SW 아카데미
+    date_start: 2019-01-07
+    date_end: ''
+
   - area: 컴퓨터공학 학사
     institution: 전북대학교
     date_start: 2019-03-01
-    date_end: ''
+    date_end: 2025-02-21
     summary: |
-      - 전공 GPA 4.35 / 4.50
-      - 전체 GPA 4.16 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_KOR.pdf)
+      - 전공 GPA 4.37 / 4.50
+      - 전체 GPA 4.18 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_KOR.pdf)
 work:
   - position: 학부연구생
     company_name: '비주얼컴퓨팅 연구실 (지도교수: 김형기)'
@@ -85,7 +90,7 @@ languages:
     percent: 50
 ---
 
-#### 전북대학교 컴퓨터공학부에 재학 중인 강봉구입니다.
+#### SSAFY 13기에서 공부 중인 강봉구입니다.
 ### 깊은 경험을 쌓아나가고 싶습니다.
 - [언어 공부부터 시작해 기숙사 룸메이트 매칭 플랫폼을 배포한 경험이 있습니다.](projects/roomie/)
 - [모델 이해부터 시작해 비주얼컴퓨팅 연구실에서 두 연구에 기여했습니다.](publication/)

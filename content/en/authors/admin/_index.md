@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student @ JBNU CSE
+role: Learner @ Samsung SW Academy for Youth
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -26,13 +26,18 @@ profiles:
     url: https://www.linkedin.com/in/rkdbq
 
 education:
+  - area: Mobile Track
+    institution: Samsung SW Academy for Youth
+    date_start: 2019-01-07
+    date_end: ''
+
   - area: Bachelor of Computer Science and Engineering
     institution: Jeonbuk National University
     date_start: 2019-03-01
-    date_end: ''
+    date_end: 2025-02-21
     summary: |
-      - Major GPA 4.35 / 4.50
-      - Cumulative GPA 4.16 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_ENG.pdf)
+      - Major GPA 4.37 / 4.50
+      - Cumulative GPA 4.18 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_ENG.pdf)
 work:
   - position: Undergraduate Intern
     company_name: 'Visual Computing Lab. (Advisor: Prof. Hyung-ki Kim)'
@@ -85,7 +90,7 @@ languages:
     percent: 50
 ---
 
-#### I am a student in the Department of Computer Science at Jeonbuk National University.
+#### I am a learner in the Samsung SW Academy for Youth 13th.
 ### I aim to build deep and meaningful experiences.
 - [Started with language study and deployed a dormitory roommate matching platform.](projects/roomie/)
 - [Contributed to two research projects at the Visual Computing Lab, starting with model understanding.](publication/)
