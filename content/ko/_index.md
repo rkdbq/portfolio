@@ -67,12 +67,39 @@ sections:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.5
 
-  - block: collection
+  - block: community/slider
     content:
       title: 🎶
-      filters:
-        folders:
-          - etc
+      slides:
+      - background: 
+          content: '"발아(發芽)", 2025'
+          image:
+            filename: music/hanroro_consert.jpeg
+      - background: 
+          content: '"And yet, We still", 2024'
+          image:
+            filename: music/nerd_connection_consert.jpeg
+      - background: 
+          content: '"소리없는 비가 내린다", 2024'
+          image:
+            filename: music/beomjunjang_consert.jpeg
+      - background: 
+          content: 'IPRF 2024'
+          image:
+            filename: music/iprf_2024.jpeg
+      - background: 
+          content: '"ringringring", 2024'
+          image:
+            filename: music/surl_consert.jpeg
+      - background: 
+          content: 'IPRF 2023'
+          image:
+            filename: music/iprf_2023.jpeg
+      - background: 
+          content: '"New Years’s Eve" 2022'
+          image:
+            filename: music/the_black_skirt_consert.jpeg
+
     design:
       view: community/main-grid
       columns: 3
@@ -80,7 +107,7 @@ sections:
   - block: markdown
     content:
       title: Location
-      text: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.3010662434363!2d128.56395901107965!3d35.84162057242138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3565e49dd28209e7%3A0x83734ac8a26bd9f1!2z64yA7ZWc66-86rWtIOuMgOq1rOq0keyXreyLnCDrgqjqtawg64yA66qF67O16rCc66GcIDE0NC0y!5e0!3m2!1sko!2sus!4v1727252752562!5m2!1sko!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      text: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.5645458003783!2d128.41650287676933!3d36.104101672453865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3565c40da8feab95%3A0x577f3f41f2c2e01!2z6rK97IOB67aB64-EIOq1rOuvuOyLnCDsnbjrj5ky6ri4IDE0LTM!5e0!3m2!1sko!2skr!4v1741421177275!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
   - block: resume-languages
     content:

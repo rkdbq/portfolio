@@ -67,12 +67,38 @@ sections:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.5
 
-  - block: collection
+  - block: community/slider
     content:
       title: 🎶
-      filters:
-        folders:
-          - etc
+      slides:
+      - background: 
+          content: '"발아(發芽)", 2025'
+          image:
+            filename: music/hanroro_consert.jpeg
+      - background: 
+          content: '"And yet, We still", 2024'
+          image:
+            filename: music/nerd_connection_consert.jpeg
+      - background: 
+          content: '"소리없는 비가 내린다", 2024'
+          image:
+            filename: music/beomjunjang_consert.jpeg
+      - background: 
+          content: 'IPRF 2024'
+          image:
+            filename: music/iprf_2024.jpeg
+      - background: 
+          content: '"ringringring", 2024'
+          image:
+            filename: music/surl_consert.jpeg
+      - background: 
+          content: 'IPRF 2023'
+          image:
+            filename: music/iprf_2023.jpeg
+      - background: 
+          content: '"New Years’s Eve" 2022'
+          image:
+            filename: music/the_black_skirt_consert.jpeg
     design:
       view: community/main-grid
       columns: 3
